@@ -1,0 +1,16 @@
+translations/
+/errordb.txt
+/exceptiondb.txt
+/mnemdb.json
+/ntstatusdb.txt
+/winconstants.txt
+/x64dbg.chm
+/x96dbg.exe
+/x32/x32bridge.dll
+/x32/x32dbg.dll
+/x32/x32dbg.exe
+/x32/x32gui.dll
+/x64/x64bridge.dll
+/x64/x64dbg.dll
+/x64/x64dbg.exe
+/x64/x64gui.dll
