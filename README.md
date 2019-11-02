@@ -1,5 +1,5 @@
-Ceylon bootstrap
-================
+Ceylon cli
+==========
 
 License
 -------
@@ -13,8 +13,8 @@ agree to license your contribution under the license mentioned above.
 Directory structure
 -------------------
 
-* `src`       - the Ceylon bootstrap module sources
-* `test-src`  - the Ceylon bootstrap module unit tests
+* `src`       - the Ceylon cli module sources
+* `test-src`  - the Ceylon cli module unit tests
 
 Build the module
 ----------------
@@ -32,5 +32,5 @@ And to run the tests type
 
 Once built, the module lives in this jar:
 
-    ~/.ceylon/repo/ceylon/bootstrap/0.2/ceylon.bootstrap-0.2.jar
+    ~/.ceylon/repo/org/eclipse/ceylon/cli/0.2/org.eclipse.ceylon.cli-0.2.jar
 
